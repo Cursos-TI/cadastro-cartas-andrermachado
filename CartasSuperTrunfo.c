@@ -24,9 +24,6 @@ int main() {
     printf("Digite o PIB: \n");
     scanf("%d", &PIB);
 
-    printf("Codigo da carta: %d\n", codigo_carta);
-    scanf("%d", &codigo_carta);
-
     printf("Digite o estado: \n");
     scanf("%s", estado);
 
